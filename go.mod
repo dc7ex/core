@@ -1,4 +1,4 @@
-module github.com/vtoday/copyright
+module github.com/dc7ex/core
 
 go 1.18
 
